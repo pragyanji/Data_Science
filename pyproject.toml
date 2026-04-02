@@ -16,4 +16,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "01.basic_python",
+    "02.Numpy and Pandas",
 ]
