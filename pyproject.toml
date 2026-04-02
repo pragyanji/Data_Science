@@ -21,4 +21,5 @@ members = [
     "04.jupyternoyebook",
     "05.Outliers",
     "06.Scaling_and_T_test",
+    "07.Scatter_plot",
 ]
