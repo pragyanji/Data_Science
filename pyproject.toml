@@ -22,4 +22,5 @@ members = [
     "05.Outliers",
     "06.Scaling_and_T_test",
     "07.Scatter_plot",
+    "08.FastAPI_and_Streamlit",
 ]
