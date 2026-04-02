@@ -18,4 +18,7 @@ members = [
     "01.basic_python",
     "02.Numpy and Pandas",
     "03.Titanic_dataset",
+    "04.jupyternoyebook",
+    "05.Outliers",
+    "06.Scaling_and_T_test",
 ]
