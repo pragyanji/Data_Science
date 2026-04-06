@@ -23,4 +23,6 @@ members = [
     "06.Scaling_and_T_test",
     "07.Scatter_plot",
     "08.FastAPI_and_Streamlit",
+    "09.Linear_Regression",
+    "10.Multiple_and_Polynomial_Regression",
 ]
